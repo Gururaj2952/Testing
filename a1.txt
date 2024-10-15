@@ -1,8 +1,1 @@
-1234
-
-23123
-
-
-merge test
-
-Added new line
+Adding new line on commit-D section
